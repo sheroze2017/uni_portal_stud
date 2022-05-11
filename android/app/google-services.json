@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325961998568",
+    "project_id": "ubitportal-1",
+    "storage_bucket": "ubitportal-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325961998568:android:09875b91badb2763a7e95d",
+        "android_client_info": {
+          "package_name": "com.example.getx_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325961998568-2eogk642abn5jerroebg1130cti6senu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTyVNDMWHTh7nxeymHcrvK7rfZet-KlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325961998568-2eogk642abn5jerroebg1130cti6senu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
